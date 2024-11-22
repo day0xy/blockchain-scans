@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Etherscan Address Finder",
+  "name": "Blockchain Address Finder",
   "version": "1.0",
-  "description": "Right-click to check Ethereum address on Etherscan.",
+  "description": "Right-click to check blockchain address on Etherscan,Solscan or Bscscan",
   "permissions": ["contextMenus", "activeTab"],
   "background": {
     "service_worker": "background.js"
